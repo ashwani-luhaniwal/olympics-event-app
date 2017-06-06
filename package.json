@@ -1,0 +1,27 @@
+{
+  "name": "olympic-event-app",
+  "version": "1.0.0",
+  "description": "Manage Olympic Events App using Node, MongoDB, Mangoose and Express ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Olympic_event_app"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-ejs-layouts": "^2.3.0",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "mongoose": "^4.10.4",
+    "nodemon": "^1.11.0"
+  }
+}
